@@ -88,6 +88,7 @@
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,jupyter&theme=dark&perline=8)](https://skillicons.dev)
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hari_preetham/)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---

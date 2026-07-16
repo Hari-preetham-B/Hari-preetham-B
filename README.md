@@ -37,9 +37,6 @@
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hari-preetham-B&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-preetham-B&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff&langs_count=8"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-preetham-B&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B"/>
 
 </div>

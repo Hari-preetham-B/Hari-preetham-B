@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Bade%20Hari%20Preetham&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" />
 
 <!-- ═══════════════════ TYPING SVG ═══════════════════ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=2nd+Year+AIML+%40+CMRIT%2C+Bengaluru+🏛️;Computer+Vision+Engineer+🔥;Full-Stack+AI+Builder+🤖;IoT+%2B+Embedded+Systems+🔌;Meta+AI+Hackathon+Participant+🏆;NPTEL+Elite+%7C+Top+2%25+in+Java+🥇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=3rd+Year+AIML+%40+CMRIT%2C+Bengaluru+🏛️;Computer+Vision+Engineer+🔥;Full-Stack+AI+Builder+🤖;IoT+%2B+Embedded+Systems+🔌;NPTEL+Elite+%7C+Top+2%25+in+Java+🥇)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +21,7 @@
 | 📍 **Location** | Bengaluru, Karnataka 🇮🇳 |
 | 🎓 **College** | CMR Institute of Technology |
 | 📘 **Degree** | B.E. — AI & Machine Learning (VTU) |
-| 📅 **Year** | 2nd Year · 4th Semester · **CGPA 9.41** |
+| 📅 **Year** | 3rd Year · 5th Semester · **CGPA 9.44** |
 | 🏆 **Achievement** | NPTEL Top 2% (Java) · Top 5% (NLP) |
 | 🤖 **Hackathon** | Meta AI Hackathon 2025 — 91.4% accuracy |
 | 🔭 **WRO 2026** | Building autonomous self-driving car |

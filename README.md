@@ -1,20 +1,17 @@
 <div align="center">
 
-<!-- ═══════════════════ CUSTOM HERO CARD ═══════════════════ -->
-<img src="assets/hero-banner.svg" width="100%" alt="Bade Hari Preetham"/>
+<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Bade%20Hari%20Preetham&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" />
 
-<!-- ═══════════════════ BADGE ROW ═══════════════════ -->
-![Status](https://img.shields.io/badge/status-actively%20building-brightgreen?style=for-the-badge&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/focus-AI%20%2F%20ML%20%2F%20Full--Stack-FF6B6B?style=for-the-badge&labelColor=0D1117)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hari-preetham-B&color=FF6B6B&style=for-the-badge&labelColor=0D1117)](https://github.com/Hari-preetham-B)
-[![Followers](https://img.shields.io/github/followers/Hari-preetham-B?style=for-the-badge&color=FF6B6B&labelColor=0D1117&label=followers)](https://github.com/Hari-preetham-B?tab=followers)
+<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=3rd+Year+AIML+%40+CMRIT%2C+Bengaluru+🏛️;Computer+Vision+Engineer+🔥;Full-Stack+AI+Builder+🤖;IoT+%2B+Embedded+Systems+🔌;NPTEL+Elite+%7C+Top+2%25+in+Java+🥇)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+---
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 ### 🧬 Who Am I?
 
@@ -35,22 +32,12 @@
 
 ---
 
-<!-- ═══════════════════ CUSTOM FEATURE CARD GRID ═══════════════════ -->
-<div align="center">
-<img src="assets/feature-cards.svg" width="100%" alt="What I Do"/>
-</div>
-
----
-
 <!-- ═══════════════════ STATS ROW ═══════════════════ -->
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hari-preetham-B&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&ring_color=FF6B6B" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-preetham-B&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari-preetham-B&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&langs_count=8" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hari-preetham-B&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B"/>
 
 </div>
 
@@ -106,96 +93,19 @@
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🔥 Fire & Smoke Detection
-Custom YOLOv8 on D-Fire (20K images) · 71.6% mAP@50 · 4-tier risk scoring · Flask dashboard · Gmail alerts
+| 🔥 Project | 📝 Description | 🏷️ Stack | 🔗 |
+|---|---|---|---|
+| **🔥 Fire & Smoke Detection** | Custom YOLOv8 on D-Fire (20K images) · 71.6% mAP@50 · 4-tier risk · Flask dashboard · Gmail alerts | `YOLOv8` `PyTorch` `Flask` `OpenCV` | [→ Repo](https://github.com/Hari-preetham-B/FireSmoke) |
+| **📧 Email Triage AI** | OpenEnv RL environment · Meta AI Hackathon · 91.4% accuracy · 174% better than random · HF Spaces | `Groq` `LLaMA-3.3-70B` `Streamlit` `Docker` | [→ Repo](https://github.com/Hari-preetham-B/email-triage-env) |
+| **📄 ATS Resume Builder** | 8 modules · Dual LLM strategy · bcrypt auth · real-time sockets · Docker · HF Spaces | `Flask` `Gemini` `OpenAI` `Docker` | [→ Repo](https://github.com/Hari-preetham-B/ATS-Resume-Builder) |
+| **🧠 AI Tutor** | Split cloud: Vercel + Render · Knowledge graphs · MemBrain memory · OpenRouter LLM routing | `FastAPI` `Streamlit` `Supabase` `networkx` | [→ Repo](https://github.com/Hari-preetham-B/Ai-Tutor) |
+| **♻️ Waste Classifier** | MobileNetV3 CNN · 85–90% accuracy · <200ms CPU inference · Arduino servo actuation | `PyTorch` `OpenCV` `Arduino` `PySerial` | [→ Repo](https://github.com/Hari-preetham-B/Computer-Vision-Based-Smart-Waste-Classification-System-) |
+| **💨 IoT Air Purifier** | 9 hardware components · Auto humidity threshold · Blynk mobile app · DHT sensor | `Arduino` `Blynk` `C++` `IoT` | [→ Repo](https://github.com/Hari-preetham-B/IoT-Based-Smart-Air-Purifier-Humidity-Control-System) |
+| **🚨 Crowd Panic Detection** | YOLOv8 person detection · Crowd density estimation · Panic detection · Flask dashboard | `YOLOv8` `OpenCV` `Flask` `Python` | [→ Repo](https://github.com/Hari-preetham-B/crowdPanic) |
 
-`YOLOv8` `PyTorch` `Flask` `OpenCV`
-
-[→ Repo](https://github.com/Hari-preetham-B/FireSmoke)
-
-</td>
-<td width="50%" valign="top">
-
-### 📧 Email Triage AI
-OpenEnv RL environment · Meta AI Hackathon · 91.4% accuracy · 174% better than random · Live on HF Spaces
-
-`Groq` `LLaMA-3.3-70B` `Streamlit` `Docker`
-
-[→ Repo](https://github.com/Hari-preetham-B/email-triage-env)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 ATS Resume Builder
-8 modules · Dual LLM strategy · bcrypt auth · real-time sockets · Docker · deployed on HF Spaces
-
-`Flask` `Gemini` `OpenAI` `Docker`
-
-[→ Repo](https://github.com/Hari-preetham-B/ATS-Resume-Builder)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 AI Tutor
-Split cloud: Vercel + Render · Knowledge graphs · MemBrain persistent memory · OpenRouter LLM routing
-
-`FastAPI` `Streamlit` `Supabase` `networkx`
-
-[→ Repo](https://github.com/Hari-preetham-B/Ai-Tutor)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ♻️ Waste Classifier
-MobileNetV3 CNN · 85–90% accuracy · <200ms CPU inference · Arduino servo actuation for real-time sorting
-
-`PyTorch` `OpenCV` `Arduino` `PySerial`
-
-[→ Repo](https://github.com/Hari-preetham-B/Computer-Vision-Based-Smart-Waste-Classification-System-)
-
-</td>
-<td width="50%" valign="top">
-
-### 💨 IoT Air Purifier
-9 hardware components · auto humidity threshold · Blynk mobile app · DHT sensor monitoring
-
-`Arduino` `Blynk` `C++` `IoT`
-
-[→ Repo](https://github.com/Hari-preetham-B/IoT-Based-Smart-Air-Purifier-Humidity-Control-System)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚨 Crowd Panic Detection
-YOLOv8 person detection · crowd density estimation · panic scoring · Flask dashboard with session reports
-
-`YOLOv8` `OpenCV` `Flask` `Python`
-
-[→ Repo](https://github.com/Hari-preetham-B/crowdPanic)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 WRO 2026 — Autonomous Car
-Raspberry Pi 4 + Arduino Uno R3 · 3x ultrasonic + MPU-6050 IMU · Logitech C270 vision pipeline · PID-tuned parking
-
-`Python` `OpenCV` `Arduino` `Raspberry Pi`
-
-[→ Repo](https://github.com/Hari-preetham-B)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -258,7 +168,10 @@ hari = {
 
 ---
 
+<!-- ═══════════════════ PROFILE VIEWS ═══════════════════ -->
 <div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Hari-preetham-B&label=Profile+Views&color=FF6B6B&style=for-the-badge)](https://github.com/Hari-preetham-B)
 
 > 🎯 **"Build tech that actually solves real problems — one commit at a time."** 🌍
 

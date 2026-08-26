@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Bade%20Hari%20Preetham&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Welcome%20to%20my%20corner%20of%20the%20internet%20✨&descAlignY=58&descSize=18" />
-
-<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=650&lines=3rd+Year+AIML+%40+CMRIT%2C+Bengaluru+🏛️;Computer+Vision+Engineer+🔥;Full-Stack+AI+Builder+🤖;IoT+%2B+Embedded+Systems+🔌;NPTEL+Elite+%7C+Top+2%25+in+Java+🥇)](https://git.io/typing-svg)
+<!-- ═══════════════════ CUSTOM HERO CARD ═══════════════════ -->
+<img src="assets/hero-banner.svg" width="100%" alt="Bade Hari Preetham"/>
 
 <!-- ═══════════════════ BADGE ROW ═══════════════════ -->
 ![Status](https://img.shields.io/badge/status-actively%20building-brightgreen?style=for-the-badge&labelColor=0D1117)
@@ -14,10 +11,10 @@
 
 </div>
 
----
+<br/>
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 ### 🧬 Who Am I?
 
@@ -38,41 +35,10 @@
 
 ---
 
-<!-- ═══════════════════ WHAT I DO — FEATURE CARDS ═══════════════════ -->
+<!-- ═══════════════════ CUSTOM FEATURE CARD GRID ═══════════════════ -->
 <div align="center">
-
-## ✨ What I Do
-
+<img src="assets/feature-cards.svg" width="100%" alt="What I Do"/>
 </div>
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### 👁️ Computer Vision
-Custom YOLOv8 & CNN pipelines for real-time detection — fire/smoke, crowd panic, and waste classification systems shipped end-to-end with Flask dashboards.
-
-</td>
-<td width="25%" valign="top">
-
-### 🌐 Full-Stack AI Apps
-React/Vite + Flask/FastAPI products — EcoSphere, Dayflow, TransitOps — with Supabase, JWT auth, and role-based access baked in.
-
-</td>
-<td width="25%" valign="top">
-
-### 🤖 GenAI & LLM Systems
-Prompt engineering, multi-model routing, persistent memory, and knowledge graphs across Gemini, OpenAI, Groq, and OpenRouter.
-
-</td>
-<td width="25%" valign="top">
-
-### 🔌 Embedded / IoT
-Arduino + Raspberry Pi builds — sensor fusion, PID control, and serial pipelines — currently powering my WRO 2026 autonomous car.
-
-</td>
-</tr>
-</table>
 
 ---
 

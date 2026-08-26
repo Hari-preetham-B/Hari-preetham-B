@@ -1,0 +1,82 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="45%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="55%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="glowSpot" cx="80%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowSpot2" cx="15%" cy="90%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="borderBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="1200" height="340" rx="26" fill="#0a0e17"/>
+  <rect x="0" y="0" width="1200" height="340" rx="26" fill="url(#glowSpot)"/>
+  <rect x="0" y="0" width="1200" height="340" rx="26" fill="url(#glowSpot2)"/>
+
+  <!-- soft outer glow duplicate of border -->
+  <rect x="6" y="6" width="1188" height="328" rx="22" fill="none" stroke="url(#borderGrad)" stroke-width="6" opacity="0.45" filter="url(#borderBlur)"/>
+  <!-- crisp border -->
+  <rect x="6" y="6" width="1188" height="328" rx="22" fill="none" stroke="url(#borderGrad)" stroke-width="2.5"/>
+
+  <!-- decorative circuit-brain motif, right side -->
+  <g transform="translate(940,90)" opacity="0.9">
+    <circle cx="90" cy="90" r="78" fill="none" stroke="#22d3ee" stroke-width="1.4" opacity="0.55"/>
+    <circle cx="90" cy="90" r="78" fill="none" stroke="#22d3ee" stroke-width="1.4" opacity="0.35" stroke-dasharray="4 7"/>
+    <g filter="url(#softGlow)">
+      <path d="M60 100 Q60 60 90 55 Q120 60 120 100 Q120 130 90 138 Q60 130 60 100 Z" fill="none" stroke="#a78bfa" stroke-width="2.4"/>
+      <path d="M75 75 Q90 70 105 75" fill="none" stroke="#38bdf8" stroke-width="2"/>
+      <path d="M70 95 L90 95 L90 118" fill="none" stroke="#f472b6" stroke-width="2"/>
+      <path d="M100 90 L112 90" fill="none" stroke="#38bdf8" stroke-width="2"/>
+      <circle cx="90" cy="55" r="3.5" fill="#f472b6"/>
+      <circle cx="60" cy="100" r="3.5" fill="#22d3ee"/>
+      <circle cx="120" cy="100" r="3.5" fill="#a78bfa"/>
+      <circle cx="90" cy="138" r="3.5" fill="#38bdf8"/>
+      <circle cx="112" cy="90" r="3" fill="#38bdf8"/>
+      <circle cx="70" cy="95" r="3" fill="#f472b6"/>
+    </g>
+  </g>
+
+  <!-- text content -->
+  <text x="64" y="128" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="url(#titleGrad)" filter="url(#softGlow)">Bade Hari Preetham</text>
+
+  <text x="66" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#f0abfc">
+    Building AI systems that solve real-world problems.
+  </text>
+
+  <text x="66" y="205" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#9ca3af">
+    <tspan x="66" dy="0">2nd-year AI &amp; ML engineer crafting computer-vision, full-stack, and GenAI</tspan>
+    <tspan x="66" dy="26">systems — from YOLOv8 pipelines to LLM-powered apps to an autonomous</tspan>
+    <tspan x="66" dy="26">race car for WRO 2026.</tspan>
+  </text>
+
+  <!-- pill buttons (visual only) -->
+  <g transform="translate(66,270)">
+    <rect x="0" y="0" width="150" height="42" rx="21" fill="#151b2c" stroke="url(#borderGrad)" stroke-width="1.6"/>
+    <text x="75" y="27" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#e5e7eb" text-anchor="middle">⚡ View Projects</text>
+
+    <rect x="166" y="0" width="150" height="42" rx="21" fill="none" stroke="#4b5563" stroke-width="1.4"/>
+    <text x="241" y="27" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#d1d5db" text-anchor="middle">🔗 GitHub Profile</text>
+  </g>
+</svg>
